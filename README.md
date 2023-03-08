@@ -1,4 +1,6 @@
-File Structure: 
+This is the official repo for the [paper](https://arxiv.org/pdf/2105.08180).
+
+Yan, H., Sergin, N. D., Brenneman, W. A., Lange, S. J., & Ba, S. (2021). Deep multistage multi-task learning for quality prediction of multistage manufacturing systems. Journal of Quality Technology, 53(5), 526-544.
 
 
 
